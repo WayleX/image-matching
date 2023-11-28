@@ -1,0 +1,4 @@
+kornia
+cv2
+torch
+kornia_moons
